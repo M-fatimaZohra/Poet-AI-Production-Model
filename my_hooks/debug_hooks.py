@@ -7,4 +7,3 @@ class DebugHooks(AgentHooks):
         return tool_call
 
 debug_hooks = DebugHooks()
-#this ni hao fine shyt is complicated, i will check it out later
